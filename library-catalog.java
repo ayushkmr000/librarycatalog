@@ -2,11 +2,11 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Book {
+class librarycatalog{
 private String title;
 private String author;
 
-public Book(String title, String author) {
+public librarycatalog(String title, String author) {
 this.title = title;
 this.author = author;
 }
